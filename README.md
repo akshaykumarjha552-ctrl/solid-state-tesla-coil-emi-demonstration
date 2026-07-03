@@ -68,7 +68,7 @@ UF4007 - Protection Diode
 
 ## Final Setup
 
-![Circuit Diagram](images/coil_winding.png)
+![Circuit Diagram](images/coil_winding.jpg)
 
 
 
