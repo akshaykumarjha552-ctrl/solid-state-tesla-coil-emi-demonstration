@@ -20,15 +20,15 @@ This project presents the design and implementation of a Solid-State Tesla Coil 
 
  Component 
 
- 12 V DC Adapter 
-BD139 -  Switching Transistor 
-UF4007 - Protection Diode 
-2.2 kΩ Resistor - Base Bias 
- Primary Coil - Magnetic Field Generation 
- Secondary Coil - High Voltage Generation 
- PVC Pipe - Coil Former 
- Aluminium Foil - Capacitive Top Load 
- Heat Sink - Thermal Management 
+ 12 V DC Adapter , 
+BD139 -  Switching Transistor ,
+UF4007 - Protection Diode ,
+2.2 kΩ Resistor - Base Bias ,
+ Primary Coil - Magnetic Field Generation ,
+ Secondary Coil - High Voltage Generation ,
+ PVC Pipe - Coil Former ,
+ Aluminium Foil - Capacitive Top Load ,
+ Heat Sink - Thermal Management ,
 
 
 
