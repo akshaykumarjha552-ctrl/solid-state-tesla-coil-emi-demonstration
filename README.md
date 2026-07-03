@@ -60,7 +60,7 @@ UF4007 - Protection Diode
 
 ### Final Setup
 
-![Final Setup](images/final_setup.jpg)
+![Final Setup](images/final_setup.png)
 
 ### Circuit Diagram
 
