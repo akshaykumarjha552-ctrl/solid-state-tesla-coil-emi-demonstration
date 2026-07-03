@@ -1,4 +1,4 @@
-# Solid-State Tesla Coil for EMI Demonstration
+# Solid-State Tesla Coil for Electromagnetic Interference Demonstration
 
  ## Overview
 
